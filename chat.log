@@ -1,0 +1,28 @@
+INFO:root:<PySide6.QtSql.QSqlQuery object at 0x000001F75F59ACC0>
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Message: "hi" 
+ Received by: "machine"
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Message: "zzz" 
+ Received by: "machine"
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Message: "zz" 
+ Received by: "machine"
+DEBUG:root:Message: "¤¾¤·" 
+ Received by: "machine"
+DEBUG:root:Message: "¾È³ç" 
+ Received by: "machine"
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Message: "z" 
+ Received by: "machine"
+DEBUG:root:Message: "z" 
+ Received by: "machine"
+DEBUG:root:Table was loaded successfully.
+DEBUG:root:Message: "zz" 
+ Received by: "machine"
